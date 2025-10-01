@@ -1,0 +1,19 @@
+{
+    "filament_cost": [
+        "36"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA Matte (Calibrated)"
+    ],
+    "from": "User",
+    "inherits": "Elegoo PLA Matte @ECC",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA Matte",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "version": "2.3.0.3"
+}
